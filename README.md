@@ -20,3 +20,18 @@ IDEAS for Nudge:
 Let's get on with it, shall we? I do need Super Hardware Builder Status, but I'll do that when I get back from vacation (July 4th).
 
 Images:
+The XIAO Sense:
+
+<img width="520" height="507" alt="Screenshot 2026-07-01 at 12 43 26 PM" src="https://github.com/user-attachments/assets/aa9b9f9c-c8e0-403f-b23a-92d5b1e7f103" />
+
+Slide Switch:
+
+<img width="409" height="164" alt="Screenshot 2026-07-01 at 12 43 44 PM" src="https://github.com/user-attachments/assets/efbde176-23c1-43b7-8ebb-612403b444c8" />
+
+Actual Adafruit MAX Amp:
+
+<img width="732" height="506" alt="Screenshot 2026-07-01 at 12 42 54 PM" src="https://github.com/user-attachments/assets/64dc283f-3e99-4929-b962-bc122a23c3e2" />
+
+Whole Schematic:
+
+<img width="780" height="501" alt="Screenshot 2026-07-01 at 12 44 39 PM" src="https://github.com/user-attachments/assets/4fe7d371-fa9e-4616-9876-660d4674e59c" />
