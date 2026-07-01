@@ -20,6 +20,7 @@ IDEAS for Nudge:
 Let's get on with it, shall we? I do need Super Hardware Builder Status, but I'll do that when I get back from vacation (July 4th).
 
 Images:
+
 The XIAO Sense:
 
 <img width="520" height="507" alt="Screenshot 2026-07-01 at 12 43 26 PM" src="https://github.com/user-attachments/assets/aa9b9f9c-c8e0-403f-b23a-92d5b1e7f103" />
