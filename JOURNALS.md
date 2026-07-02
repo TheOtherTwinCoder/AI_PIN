@@ -124,5 +124,14 @@ Wow, a TON of progress today!
 
 ### Total Hours Spent: 6 (wowowow, new best?)
 
+## July 2, 2026
+
+Hey everyone! I finished the BOM + production today, and added it to the GitHub - it's in Production -> bom.csv, and it's expensive (about $70!) I've also added the files to JLC, so it should be smooth sailing from here!
+
+JLC:
+<img width="1439" height="537" alt="Screenshot 2026-07-02 at 1 45 52 PM" src="https://github.com/user-attachments/assets/8c85bc04-6fe9-4d3c-8f4a-ce91416c4228" />
+
+### Total Hours Spent: 3.5
+
 
 
