@@ -53,8 +53,14 @@ PCB Revision 3: (Routed + Silkscreen)
 
 <img width="393" height="524" alt="Screenshot 2026-07-01 at 12 48 46 PM" src="https://github.com/user-attachments/assets/69d248ab-1889-49ef-b9c3-622235563b35" />
 
+A few BOM screenshots:
 
 JLCPCB:
 <img width="1440" height="900" alt="Screenshot 2026-07-02 at 11 11 13 PM" src="https://github.com/user-attachments/assets/a4daf0e8-dafa-45c3-9a25-489fdded8de9" />
+
+AliExpress:
+<img width="1440" height="900" alt="Screenshot 2026-07-03 at 1 55 32 AM" src="https://github.com/user-attachments/assets/c1c750e9-86a0-4c94-9ede-543663d533e0" />
+
+<img width="1440" height="900" alt="Screenshot 2026-07-03 at 1 55 17 AM" src="https://github.com/user-attachments/assets/a0fce77d-b8ea-4cf7-b94f-8ad19aa808c6" />
 
 
